@@ -1,6 +1,6 @@
 # ETL_mini_project
 
-My partner for this mini project was Daniel Lee. My code is slightly different from Daniels'. Daniel used the Regex method for the contacts section, while I used Pandas. I also created a seperate `Data` folder for the final CSV files.
+My partner for this mini project was Daniel Lee. My code is slightly different from Daniels'. Daniel used the Regex method for the contacts section, while I used Pandas. I also created a separate `Data` folder for the final CSV files.
 
 The ETL_Mini_Project_AFermanich.ipynb file is a Jupyter Notebook file that reads in the xlsx files in the `Resources` folder. This splits the data to be analyzed into four seperate sections: category, subcategory, campaign, and contacts. Various transformation methods were used to extract the data for each section. The resulting dataframes for each section were exported into the `Data` folder in my repository. 
 
